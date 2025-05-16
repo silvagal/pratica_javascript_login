@@ -51,7 +51,7 @@ Tela Inicial:
 
 E-mail Inválido:
 
-![E-mail Inválido](imagens/2.PNG)
+![E-mail Inválido](imagens/3.PNG)
 
 E-mail Válido:
 
