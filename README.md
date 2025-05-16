@@ -29,11 +29,6 @@ Validar o campo de e-mail digitado pelo usuário em um formulário simples, exib
 - `script.js`: Validação de e-mail com mensagens de feedback ao usuário.
 
 
-## 📸 Captura de Tela
-
-![Formulário de validação](https://via.placeholder.com/600x300.png?text=Captura+de+Tela+do+Formul%C3%A1rio)
-
-
 ## Como Executar
 
 1. Acesse o [Playcode.io](https://playcode.io)
@@ -50,9 +45,15 @@ Validar o campo de e-mail digitado pelo usuário em um formulário simples, exib
 
 ## Exemplos de Execução
 
+###Tela Inicial:
+
 ![Tela inicial](imagens/1.PNG)
 
+###E-mail Inválido:
+
 ![E-mail Inválido](imagens/2.PNG)
+
+###E-mail Válido
 
 ![E-mail Válido](imagens/3.PNG)
 
