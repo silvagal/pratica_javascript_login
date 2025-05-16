@@ -50,11 +50,11 @@ Validar o campo de e-mail digitado pelo usuário em um formulário simples, exib
 
 ## Exemplos de Execução
 
-![Tela inicial](imagens/1.png)
+![Tela inicial](imagens/1.PNG)
 
-![E-mail Inválido](imagens/2.png)
+![E-mail Inválido](imagens/2.PNG)
 
-![E-mail Válido](imagens/3.png)
+![E-mail Válido](imagens/3.PNG)
 
 ## Aprendizados
 
