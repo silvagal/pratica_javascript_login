@@ -4,13 +4,13 @@ Este projeto é uma atividade prática da disciplina **Desenvolvimento em JavaSc
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 
 Validar o campo de e-mail digitado pelo usuário em um formulário simples, exibindo mensagens de erro ou sucesso de forma clara e visualmente acessível.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -19,14 +19,15 @@ Validar o campo de e-mail digitado pelo usuário em um formulário simples, exib
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
+```
 /
 ├── index.html
 └── src/
-├── style.css
-└── script.js
-
+    ├── style.css
+    └── script.js
+```
 
 - `index.html`: Estrutura principal da página.
 - `style.css`: Estilização da interface com foco em legibilidade e contraste.
