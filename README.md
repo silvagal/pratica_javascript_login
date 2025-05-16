@@ -45,15 +45,15 @@ Validar o campo de e-mail digitado pelo usuário em um formulário simples, exib
 
 ## Exemplos de Execução
 
-###Tela Inicial:
+Tela Inicial:
 
 ![Tela inicial](imagens/1.PNG)
 
-###E-mail Inválido:
+E-mail Inválido:
 
 ![E-mail Inválido](imagens/2.PNG)
 
-###E-mail Válido
+E-mail Válido:
 
 ![E-mail Válido](imagens/3.PNG)
 
